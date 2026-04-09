@@ -56,7 +56,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="oF0Q3DiJvGbMM-4ChyOC" name="周转灵APP改动">
-    <mxGraphModel dx="2150" dy="927" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4523" dy="2245" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -78,8 +78,8 @@
         <mxCell id="9R_uxs-t--rliFdE3ONe-2" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#E6D0DE;dashed=1;fillColor=none;" value="" vertex="1">
           <mxGeometry height="30" width="30" x="-707" y="-144" as="geometry" />
         </mxCell>
-        <mxCell id="9R_uxs-t--rliFdE3ONe-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#F2F2F2;" value="" vertex="1">
-          <mxGeometry height="30" width="301" x="-924" y="-221" as="geometry" />
+        <mxCell id="9R_uxs-t--rliFdE3ONe-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#F2F2F2;align=left;" value="&lt;font style=&quot;color: light-dark(rgb(121, 102, 151), rgb(152, 136, 178)); font-size: 9px;&quot;&gt;1.周转灵首页&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="252" x="-924" y="-221" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
