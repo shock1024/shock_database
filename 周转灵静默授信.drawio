@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="-SoXwD24oh6UtZZYkVzv">
-    <mxGraphModel dx="1973" dy="897" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2394" dy="1107" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Uk2dMx9YhVHoloQ5nMFa-108" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;html=1;" value="周转灵远程授信" vertex="1">
-          <mxGeometry height="682" width="1496" x="-318" y="249" as="geometry" />
+          <mxGeometry height="1406" width="1496" x="-318" y="249" as="geometry" />
         </mxCell>
         <mxCell id="Uk2dMx9YhVHoloQ5nMFa-109" parent="Uk2dMx9YhVHoloQ5nMFa-108" style="swimlane;startSize=20;horizontal=0;html=1;" value="周转灵极简授信" vertex="1">
           <mxGeometry height="320" width="1476" x="20" as="geometry">
@@ -187,6 +187,91 @@
         </mxCell>
         <mxCell id="M5vVADbM8I1U6R2FiZT8-1" parent="Uk2dMx9YhVHoloQ5nMFa-110" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" value="" vertex="1">
           <mxGeometry height="79" width="496" x="935" y="232" as="geometry" />
+        </mxCell>
+        <mxCell id="J58_sE8KMhOTe6TJpAsD-6" parent="Uk2dMx9YhVHoloQ5nMFa-108" style="swimlane;startSize=20;horizontal=0;html=1;" value="TP" vertex="1">
+          <mxGeometry height="362" width="1476" x="20" y="682" as="geometry">
+            <mxRectangle height="26" width="1476" x="20" y="320" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J58_sE8KMhOTe6TJpAsD-29" edge="1" parent="J58_sE8KMhOTe6TJpAsD-6" source="J58_sE8KMhOTe6TJpAsD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="J58_sE8KMhOTe6TJpAsD-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J58_sE8KMhOTe6TJpAsD-7" parent="J58_sE8KMhOTe6TJpAsD-6" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="TP名单&lt;div&gt;每月10号&lt;/div&gt;" vertex="1">
+          <mxGeometry height="58" width="100" x="87.5" y="146" as="geometry" />
+        </mxCell>
+        <mxCell id="J58_sE8KMhOTe6TJpAsD-8" edge="1" parent="J58_sE8KMhOTe6TJpAsD-6" source="J58_sE8KMhOTe6TJpAsD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="J58_sE8KMhOTe6TJpAsD-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="277.5" y="175" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J58_sE8KMhOTe6TJpAsD-9" parent="J58_sE8KMhOTe6TJpAsD-6" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;通过&amp;amp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;智信辅助标签=Y&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="58" width="100" x="917.5" y="146" as="geometry" />
+        </mxCell>
+        <mxCell id="J58_sE8KMhOTe6TJpAsD-16" parent="J58_sE8KMhOTe6TJpAsD-6" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="拒绝" vertex="1">
+          <mxGeometry height="40" width="100" x="921" y="71" as="geometry" />
+        </mxCell>
+        <mxCell id="J58_sE8KMhOTe6TJpAsD-19" edge="1" parent="J58_sE8KMhOTe6TJpAsD-6" source="J58_sE8KMhOTe6TJpAsD-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="J58_sE8KMhOTe6TJpAsD-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J58_sE8KMhOTe6TJpAsD-20" connectable="0" parent="J58_sE8KMhOTe6TJpAsD-19" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Y" vertex="1">
+          <mxGeometry relative="1" x="-0.0812" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J58_sE8KMhOTe6TJpAsD-21" parent="J58_sE8KMhOTe6TJpAsD-6" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="贷中通过" vertex="1">
+          <mxGeometry height="54" width="132" x="500.5" y="148" as="geometry" />
+        </mxCell>
+        <mxCell id="J58_sE8KMhOTe6TJpAsD-22" parent="J58_sE8KMhOTe6TJpAsD-6" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="客户点击借款" vertex="1">
+          <mxGeometry height="58" width="100" x="289.5" y="146" as="geometry" />
+        </mxCell>
+        <mxCell id="J58_sE8KMhOTe6TJpAsD-23" edge="1" parent="J58_sE8KMhOTe6TJpAsD-6" source="J58_sE8KMhOTe6TJpAsD-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="J58_sE8KMhOTe6TJpAsD-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J58_sE8KMhOTe6TJpAsD-32" connectable="0" parent="J58_sE8KMhOTe6TJpAsD-23" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="贷中重审" vertex="1">
+          <mxGeometry relative="1" x="-0.3749" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J58_sE8KMhOTe6TJpAsD-25" edge="1" parent="J58_sE8KMhOTe6TJpAsD-6" source="J58_sE8KMhOTe6TJpAsD-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="J58_sE8KMhOTe6TJpAsD-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="568" y="91" />
+            </Array>
+            <mxPoint x="566.5" y="103" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J58_sE8KMhOTe6TJpAsD-26" connectable="0" parent="J58_sE8KMhOTe6TJpAsD-25" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="N" vertex="1">
+          <mxGeometry relative="1" x="0.1379" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J58_sE8KMhOTe6TJpAsD-28" parent="J58_sE8KMhOTe6TJpAsD-6" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="客户点击提额" vertex="1">
+          <mxGeometry height="58" width="100" x="289.5" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="J58_sE8KMhOTe6TJpAsD-31" edge="1" parent="J58_sE8KMhOTe6TJpAsD-6" source="J58_sE8KMhOTe6TJpAsD-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="J58_sE8KMhOTe6TJpAsD-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J58_sE8KMhOTe6TJpAsD-34" parent="Uk2dMx9YhVHoloQ5nMFa-108" style="swimlane;startSize=20;horizontal=0;html=1;" value="TP" vertex="1">
+          <mxGeometry height="362" width="1476" x="20" y="1044" as="geometry">
+            <mxRectangle height="26" width="1476" x="20" y="320" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J58_sE8KMhOTe6TJpAsD-36" parent="J58_sE8KMhOTe6TJpAsD-34" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="TP名单&lt;div&gt;每月10号&lt;/div&gt;" vertex="1">
+          <mxGeometry height="58" width="100" x="87.5" y="146" as="geometry" />
+        </mxCell>
+        <mxCell id="J58_sE8KMhOTe6TJpAsD-37" edge="1" parent="J58_sE8KMhOTe6TJpAsD-34" source="J58_sE8KMhOTe6TJpAsD-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="J58_sE8KMhOTe6TJpAsD-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="277.5" y="175" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J58_sE8KMhOTe6TJpAsD-57" edge="1" parent="J58_sE8KMhOTe6TJpAsD-34" source="J58_sE8KMhOTe6TJpAsD-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="J58_sE8KMhOTe6TJpAsD-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J58_sE8KMhOTe6TJpAsD-48" parent="J58_sE8KMhOTe6TJpAsD-34" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="客户点击借款" vertex="1">
+          <mxGeometry height="58" width="100" x="289.5" y="146" as="geometry" />
+        </mxCell>
+        <mxCell id="J58_sE8KMhOTe6TJpAsD-56" parent="J58_sE8KMhOTe6TJpAsD-34" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;智信借款页&lt;/span&gt;" vertex="1">
+          <mxGeometry height="58" width="100" x="513" y="146" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
