@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="-SoXwD24oh6UtZZYkVzv">
-    <mxGraphModel dx="1729" dy="1538" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2129" dy="1538" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -281,6 +281,12 @@
         </mxCell>
         <mxCell id="J58_sE8KMhOTe6TJpAsD-107" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="远程极简" vertex="1">
           <mxGeometry height="60" width="120" x="-283" y="-192" as="geometry" />
+        </mxCell>
+        <mxCell id="J58_sE8KMhOTe6TJpAsD-108" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="地推" vertex="1">
+          <mxGeometry height="60" width="120" x="-450" y="-406" as="geometry" />
+        </mxCell>
+        <mxCell id="J58_sE8KMhOTe6TJpAsD-109" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="远程" vertex="1">
+          <mxGeometry height="60" width="120" x="-450" y="-296" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
