@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="xD9Hg_ZDxrv5ku2F6RRH">
-    <mxGraphModel dx="1775" dy="1163" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#2C2C2C,#000000)" math="0" shadow="0">
+    <mxGraphModel dx="3723" dy="2245" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#2C2C2C,#000000)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -182,8 +182,8 @@
         <mxCell id="e_eGlkVwXzRjdetxsRZx-62" parent="1" style="line;strokeWidth=2;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;strokeColor=#FF0000;" value="" vertex="1">
           <mxGeometry height="10" width="160" x="133" y="1506" as="geometry" />
         </mxCell>
-        <mxCell id="e_eGlkVwXzRjdetxsRZx-63" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: light-dark(rgb(255, 255, 255), rgb(44, 44, 44)); font-size: 35px;&quot;&gt;&lt;b style=&quot;&quot;&gt;周转灵富能计划权益合规整改&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="125" width="1143.39" x="-372.39" y="-40" as="geometry" />
+        <mxCell id="e_eGlkVwXzRjdetxsRZx-63" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: light-dark(rgb(255, 255, 255), rgb(44, 44, 44)); font-size: 55px;&quot;&gt;&lt;b style=&quot;&quot;&gt;周转灵富能计划权益合规整改&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="125" width="1783.39" x="-374" y="-68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
