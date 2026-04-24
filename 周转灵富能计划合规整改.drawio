@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="xD9Hg_ZDxrv5ku2F6RRH">
-    <mxGraphModel dx="4888" dy="3814" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" background="light-dark(#2C2C2C,#000000)" math="0" shadow="0">
+    <mxGraphModel dx="3385" dy="1818" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="900" pageHeight="1600" background="light-dark(#2C2C2C,#000000)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -184,6 +184,9 @@
         </mxCell>
         <mxCell id="e_eGlkVwXzRjdetxsRZx-63" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: light-dark(rgb(255, 255, 255), rgb(44, 44, 44)); font-size: 61px;&quot;&gt;&lt;b style=&quot;&quot;&gt;周转灵富能计划权益合规整改&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="180" width="1770.39" x="-372.39" y="-96" as="geometry" />
+        </mxCell>
+        <mxCell id="e_eGlkVwXzRjdetxsRZx-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#2C2C2C,#2C2C2C);strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="1588" width="1422" x="-450" y="1755" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
